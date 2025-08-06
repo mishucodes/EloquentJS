@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 80vh;
+    width: 80vw;
+    margin: auto;
+    margin-top: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

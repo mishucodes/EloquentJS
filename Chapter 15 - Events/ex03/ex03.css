@@ -1,0 +1,22 @@
+body{
+    background-color: darkolivegreen;
+    color: lightgray;
+}
+
+.container{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    margin: auto;
+}
+
+
+.container .content{
+    display: none;
+}
+
+#tabOne div{
+    display: block;
+}

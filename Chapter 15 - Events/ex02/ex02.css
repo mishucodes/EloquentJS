@@ -1,0 +1,11 @@
+body{
+    background-color: darkolivegreen;
+    color: lightgray;
+}
+
+.trail {
+    position: absolute;
+    height: 15px; width: 15px;
+    border-radius: 30px;
+    background: white;
+}

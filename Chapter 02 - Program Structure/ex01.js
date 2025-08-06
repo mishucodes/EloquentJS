@@ -1,7 +1,6 @@
 //This program will print a series of #HashTags:
 
 
-
 //My Solution:
 let userInput = 5;
 for (let i = 1; i <= userInput; i++)
